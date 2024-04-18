@@ -1,0 +1,12 @@
+{
+    "bookdetails":[
+        {
+            "name":"The Alchemist",
+            "id":"book1",
+            "author":"Paulo Coelho",
+            "category":"Fiction",
+            "publisher":"HarperCollins",
+            "email":"H0jzZ@example.com"
+        }
+    ]
+}

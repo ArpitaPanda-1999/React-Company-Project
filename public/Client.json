@@ -1,0 +1,11 @@
+{
+    "clientdetails":[
+        {
+            "name":"Arpita Panda",
+            "id":"client1",
+            "email":"H0jzZ@example.com",
+            "phone":"1234567890",
+            "address":"Hyderabad"
+        }
+    ]
+}

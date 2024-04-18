@@ -1,0 +1,11 @@
+{
+    "bikedetails":[
+        {
+            "name":"Apache RTR 160",
+            "id":"bike1",
+            "brand":"Apache",
+            "color":"black",
+            "email":"H0jzZ@example.com"
+        }
+    ]
+}

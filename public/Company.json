@@ -1,0 +1,11 @@
+{
+    "companydetails":[
+        {
+            "name":"Amazon",
+            "id":"company1",
+            "product":"Books",
+            "publisher":"Penguin",
+            "email":"H0jzZ@example.com"
+        }
+    ]
+}
